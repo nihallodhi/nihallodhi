@@ -37,7 +37,7 @@
 <br>
 📫
 <ul>
-     <li>You can reach out to me over LinkedIn. You can also send me a mail at nihallodhi@gmail.com</li>
+     <li>You can reach out to me over <a href="https://www.linkedin.com/in/nihallodhi">LinkedIn</a>. You can also send me a mail at <a href="mailto:nihallodhi@gmail.com">nihallodhi@gmail.com</a></li>
 </ul>
 <!---
 nihallodhi/nihallodhi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
