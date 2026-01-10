@@ -7,32 +7,27 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/nihallodhi" rel="nofollow noreferrer">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"> 
-  </a> &nbsp; 
-  <a href="https://www.twitter.com/nihallodhi" rel="nofollow noreferrer">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="twitter">
-  </a> &nbsp;
-  <a href="https://www.nihallodhi.in" rel="nofollow noreferrer">
-    <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="website">
-  </a> &nbsp;
+  </a>
 </p>
 <br>
 👀
 <ul>
-     <li>Software Engineer with 6+ years experience in the Healthcare (Electronic Medical Record) sector.</li>
-     <li>Always keen to learn, improvise, experiment, exhibit and excel.</li>
-     <li>I work at Cerner Heathcare as Senior Software Engineer with a focus on C# applications.</li>
-     <li>You will find high level summaries of my job, duties and education in my resume. (<a href="http://nihallodhi.in/Resume%20-%20Nihal%20LODHI.pdf)">Resume</a>) </li>
+     <li>Software Architect with 3+ years experience in the Motion Control, specializing in building AI-powered solutions that bridge industrial engineering with modern cloud technologies.</li>
+     <li>Previously, a Software Engineer with 6+ years experience in the Healthcare (Electronic Medical Record) sector.</li>
+     <li>Passionate about solving real-world problems by applying my technical expertise.</li>
+     <li>Currently improving the Automated industrial systems and machine health diagnostics sector, one line of code at a time.</li>
+     <li>Always keen to learn, improvise, experiment, exhibit and excel.</li>   
+     <!--<li>You will find high level summaries of my job, duties and education in my resume. (<a href="http://nihallodhi.in/Resume%20-%20Nihal%20LODHI.pdf)">Resume</a>) </li>-->
 </ul>
 <br>
 👨‍💻
 <ul>
-     <li>If you want to see some of my projects that I work on in my spare time, here are my projects : (<a href="www.nihallodhi.in/#projects">Projects</a>) and my portfolio site : (<a href="www.nihallodhi.in">Wesbite</a>) </li>
      <li>I build  windows applications in my free time and you can go through my repos and might come across something useful. </li>
 </ul>
 <br>
 🌱
 <ul> 
-     <li>I’m currently learning Azure Fundamentals, planning to get Azure certified.
+     <li>I’m currently learning about advanced AI concepts and planning to get certified in them.</li>
 </ul>
 <br>
 📫
