@@ -12,11 +12,11 @@
 <br>
 👀
 <ul>
-     <li>Software Architect with 3+ years experience in the Motion Control, specializing in building AI-powered solutions that bridge industrial engineering with modern cloud technologies.</li>
-     <li>Previously, a Software Engineer with 6+ years experience in the Healthcare (Electronic Medical Record) sector.</li>
-     <li>Passionate about solving real-world problems by applying my technical expertise.</li>
-     <li>Currently improving the Automated industrial systems and machine health diagnostics sector, one line of code at a time.</li>
+     <li>Software Architect with 9+ years of experience designing and delivering enterprise software systems in industrial automation and healthcare domains.</li>
+     <li>Strong expertise in C# .NET, Python, cloud-native architectures, and AI-driven systems (Semantic Kernel, Azure OpenAI, RAG).</li>
+     <li>Proven track record at Siemens and Cerner delivering scalable, secure, and maintainable solutions aligned with architectural and non-functional requirements.</li>     
      <li>Always keen to learn, improvise, experiment, exhibit and excel.</li>   
+     <li>You will find high level summaries of my job, duties and projects in my website (<a href="http://nihallodhi.info/">Website</a>) </li>
      <!--<li>You will find high level summaries of my job, duties and education in my resume. (<a href="http://nihallodhi.in/Resume%20-%20Nihal%20LODHI.pdf)">Resume</a>) </li>-->
 </ul>
 <br>
